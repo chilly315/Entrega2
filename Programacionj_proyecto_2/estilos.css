@@ -1,0 +1,40 @@
+p{
+   font-size: 20px; 
+
+}
+ 
+
+.card-text{ 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: aliceblue;
+}
+
+
+
+.carta {
+    background-color: #010003;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, );
+  }
+ 
+.card-title{
+color:orange;
+}
+
+.dib{
+    background-color: #010003;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.dib:h1{
+    color: orange;
+}
+
+body{ 
+  background-color: orange;
+  
+}
